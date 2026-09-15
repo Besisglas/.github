@@ -48,7 +48,7 @@ Model numbers are printed on the product label, packaging, or user manual. Produ
 | Product | Picture | Model | Main Feature | Documentation |
 | --- | --- | --- | --- | --- |
 | Zigbee Temperature & Humidity Sensor | <img src="images/Zigbee%20Temperature%20&%20Humidity%20Sensor.png" alt="Sensor" width="180"> | `ZB-TH` | Slim, AAA-powered environmental sensor | [Please wait for documentation](https://github.com/Besisglas) |
-| Zigbee Temperature & Humidity Sensor with Display | <img src="images/Zigbee%20Temperature%20&%20Humidity%20Sensor%20with%20Display.png" alt="Sensor" width="180"> | `ZB-THD` | Local temperature and humidity display | [Please wait for documentation](https://github.com/Besisglas) |
+| Zigbee Temperature & Humidity Sensor with Display | <img src="images/Zigbee%20Temperature%20&%20Humidity%20Sensor%20With%20Display.png" alt="Sensor" width="180"> | `ZB-THD` | Local temperature and humidity display | [Please wait for documentation](https://github.com/Besisglas) |
 
 ### Presence Sensors
 
