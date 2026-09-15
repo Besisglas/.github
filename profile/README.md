@@ -8,7 +8,7 @@
   1. Replace every "MODEL-ID" with the product's exact model number.
   2. Replace each temporary https://github.com/Besisglas link with the
      corresponding product repository URL.
-  3. Replace the common-guide links after the support repository is ready.
+  3. The common-guide links assume a public repository named "support".
   4. Optionally add a brand logo at profile/assets/besisglas-logo.png and
      uncomment the image line below.
   5. Remove products that are not yet publicly supported.
@@ -81,13 +81,13 @@ Model numbers are printed on the product label, packaging, or user manual. Produ
 
 These guides apply to multiple Besisglas products:
 
-- [Getting Started with Zigbee](https://github.com/Besisglas/support)
-- [Setting Up Devices with Home Assistant ZHA](https://github.com/Besisglas/support)
-- [Setting Up Devices with Zigbee2MQTT](https://github.com/Besisglas/support)
-- [Pairing, Re-pairing, and Factory Reset](https://github.com/Besisglas/support)
-- [Improving Zigbee Range and Network Reliability](https://github.com/Besisglas/support)
-- [Understanding Zigbee Battery Reporting](https://github.com/Besisglas/support)
-- [General Troubleshooting](https://github.com/Besisglas/support)
+- [Getting Started with Zigbee](support/docs/getting-started-with-zigbee.md)
+- [Setting Up Devices with Home Assistant ZHA](support/docs/home-assistant-zha.md)
+- [Setting Up Devices with Zigbee2MQTT](support/docs/zigbee2mqtt.md)
+- [Pairing, Re-pairing, and Factory Reset](support/docs/pairing-and-factory-reset.md)
+- [Improving Zigbee Range and Network Reliability](support/docs/zigbee-network-reliability.md)
+- [Understanding Zigbee Battery Reporting](support/docs/battery-reporting.md)
+- [General Troubleshooting](support/docs/general-troubleshooting.md)
 
 ## Compatibility Information
 
